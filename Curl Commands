@@ -1,1 +1,5 @@
+-X POST
+Send POST request.
 
+--data 
+Send data over through curl.
