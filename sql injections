@@ -2,3 +2,7 @@ Try different syntax:
 admin'='1'='1
 
 admin"="1"="1
+
+Adding keyword (LIMIT):
+
+admin' or '1'='1 LIMIT 1 --
