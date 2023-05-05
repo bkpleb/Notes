@@ -9,3 +9,5 @@ Methods:
 <sc<script>ript>alert('2896f1b2-d3c9-4b23-9ece-d6137cbf6b36')</sc</script>ript>
 
 %3Cimg%20src=%22zzzzz.jpg%22%22%20onerror=%20alert(%272896f1b2-d3c9-4b23-9ece-d6137cbf6b36%27)%20%3E%3C/img%3E
+
+"><svg onload=alert(1)>
